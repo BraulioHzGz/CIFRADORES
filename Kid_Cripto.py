@@ -1,0 +1,1 @@
+print("Kid Cripto Algorithm")
